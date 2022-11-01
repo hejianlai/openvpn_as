@@ -9,5 +9,6 @@ openvpn access server + 破解连接数限制
  ```
  # 替换破解文件后重新初始化
 ```
+\cp pyovpn-2.0-py3.6.egg /usr/local/openvpn_as/lib/python/
  /usr/local/openvpn_as/bin/ovpn-init
 ```

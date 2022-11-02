@@ -2,6 +2,9 @@
 openvpn access server + 破解连接数限制
 # install
 ```
+ wget http://swupdate.openvpn.net/as/clients/openvpn-as-bundled-clients-17.rpm
+ wget http://swupdate.openvpn.net/as/openvpn-as-2.9.2_04614689-CentOS7.x86_64.rpm
+ 
  yum install ./openvpn-as-bundled-clients-17.rpm
  yum install ./openvpn-as-2.9.2_04614689-CentOS7.x86_64.rpm
  
